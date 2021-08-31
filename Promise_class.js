@@ -1,3 +1,4 @@
+// 用类来写Promise
 // 自定义Promise函数模块:IIFE 匿名函数自调用
 (function (window){
     const PENDING = 'pending'
